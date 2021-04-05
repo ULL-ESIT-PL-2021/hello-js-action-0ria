@@ -20,6 +20,8 @@ Se trata de una Github Action la cual printea *Hello* + el nomber de la persona 
 
 ### Ejemplo de uso
 
+```
 uses: actions/hello-js-action-0ria@v1
 with:
   who-to-greet: 'Dani'
+```
