@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-0ria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-0ria.git"
+  },
+  "keywords": [],
+  "author": "Daniel Oria Martin <alu0101027340@ull.edu.es> (https://github.com/0ria)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-0ria/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-0ria#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
